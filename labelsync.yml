@@ -1,0 +1,52 @@
+repos:
+  graphql-shield:
+    strict: true
+    labels:
+      kind/bug:
+        color: c5def5
+      kind/question:
+        color: c5def5
+      stale:
+        color: ff69b4
+      status/priority:
+        color: a9c1e8
+      bug/0-needs-reproduction:
+        color: d93f0b
+      bug/1-repro-available:
+        color: d93f0b
+      bug/2-confirmed:
+        color: d93f0b
+  label-sync:
+    strict: true
+    labels:
+      kind/bug:
+        color: c5def5
+      kind/question:
+        color: c5def5
+      stale:
+        color: ff69b4
+      status/priority:
+        color: a9c1e8
+      bug/0-needs-reproduction:
+        color: d93f0b
+      bug/1-repro-available:
+        color: d93f0b
+      bug/2-confirmed:
+        color: d93f0b
+  emma-cli:
+    strict: true
+    labels:
+      kind/bug:
+        color: c5def5
+      kind/question:
+        color: c5def5
+      stale:
+        color: ff69b4
+      status/priority:
+        color: a9c1e8
+      bug/0-needs-reproduction:
+        color: d93f0b
+      bug/1-repro-available:
+        color: d93f0b
+      bug/2-confirmed:
+        color: d93f0b
